@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blushing Mulberry]]></title>
+        <description><![CDATA[Blushing Mulberry]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 20:53:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My Experience with The Grid</p>]]></description>
+            <link>undefinedmy-experience-with-the-grid/index.html</link>
+            <guid isPermaLink="false">962944cc-5923-4fee-8db8-c199da0f8c25</guid>
+            <pubDate>Tue, 16 Aug 2016 20:53:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
